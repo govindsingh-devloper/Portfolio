@@ -234,7 +234,7 @@ export default function PortfolioMockup() {
           {[1, 2, 3].map((i) => (
             <motion.a
               key={i}
-              href="https://www.behance.net/akashkumar6"
+              href="https://www.behance.net/akashkumar5"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, scale: 0.9 }}
