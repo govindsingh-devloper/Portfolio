@@ -1,4 +1,4 @@
-import PortfolioMockup from "./portfolio";
+import PortfolioMockup from "./Portfolio";
 
 function App() {
   return <PortfolioMockup />;
